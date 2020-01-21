@@ -1,0 +1,129 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="BillingApiTests" GeneratedClassName="BillingApiTestSettings">
+  <Profiles />
+  <Settings>
+    <Setting Name="BillingServiceBaseUrlTestEnvironment" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">http://host1.test-billing.services.trupanion.com</Value>
+    </Setting>
+    <Setting Name="BillingServiceAuthorizationTokenTestEnvironment" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE1Njg2NTkxMDcsImV4cCI6MTU2OTI2MzkwNywiaXNzIjoidGVzdC1hcHAwMS50cnVpZC50cnVwYW5pb24uY29tIiwiYXVkIjoidGVzdC5zZXJ2aWNlcy50cnVwYW5pb24uY29tIiwianRpIjoiNTNiNmZhNmNkZmNkNDc1NmI5Y2JlNmQ2NWM5N2U3N2QiLCJUcnVJZCI6eyJJZCI6IjA4MDkyYWFhMmNlNjQ2ZjA4ZGJiMzc3OGVkNDM0NGQ4IiwiVXNlciI6Inl1bmZlbmcubWEiLCJOYW1lIjoiWXVuZmVuZyBNYSIsIlNjb3BlIjowfX0=.DN4F10I85s5vKfFKnykDNwEW/1Lc6Est5vupyvzSnMY=</Value>
+    </Setting>
+    <Setting Name="BillingServiceApiAccountId" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">632810</Value>
+    </Setting>
+    <Setting Name="BillingServiceApiAccountPartyId" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">2c590d48-7aed-4651-ad48-08e10954b523</Value>
+    </Setting>
+    <Setting Name="BillingServiceApiAccountPolicyHolderId" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">305155</Value>
+    </Setting>
+    <Setting Name="BillingServiceApiAccountTruDatOwnerId" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">640261</Value>
+    </Setting>
+    <Setting Name="BillingServiceApiAccountTruDatOwnerUniqueId" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">637943BC-D0C4-4A0B-B7D8-55BC78FFE65F</Value>
+    </Setting>
+    <Setting Name="BillingServiceApiAccountNextInvoiceAmount" Type="System.Decimal" Scope="Application">
+      <Value Profile="(Default)">24.33</Value>
+    </Setting>
+    <Setting Name="BillingServiceApiAccountExternalId" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">2c91a0b96e1d3cc1016e223b5af45afd</Value>
+    </Setting>
+    <Setting Name="BillingServiceApiBankAccountNameOnAccount" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Miao Laoshi</Value>
+    </Setting>
+    <Setting Name="BillingServiceApiBankAccountId" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">142048</Value>
+    </Setting>
+    <Setting Name="BillingServiceManchineName" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">test-app01.corp.vetinsurance.com</Value>
+    </Setting>
+    <Setting Name="BillingServiceName" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Trupanion.Billing.WebService</Value>
+    </Setting>
+    <Setting Name="BillingServiceTypesChecking" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Checking</Value>
+    </Setting>
+    <Setting Name="BillingServiceApiAccountInvoiceId" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">2c91a0fa6e1d3d17016e223b61986db1</Value>
+    </Setting>
+    <Setting Name="BillingServiceApiAccountPaymentReschedulingRrequestsId" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">4608</Value>
+    </Setting>
+    <Setting Name="BillingServiceApiAccountInoiceAmount" Type="System.Decimal" Scope="Application">
+      <Value Profile="(Default)">70.92</Value>
+    </Setting>
+    <Setting Name="BillingServiceProductsName" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Pet Insurance</Value>
+    </Setting>
+    <Setting Name="BillingServiceProductsNumber" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">4</Value>
+    </Setting>
+    <Setting Name="BillingServiceApiAccountInoiceIdUnMatched" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">2c91a0fa6e87ff56016e897b3d08707d</Value>
+    </Setting>
+    <Setting Name="BillingServiceApiAccountInvoicePaymentId" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">2c91a0f86e690391016e7f85caae067f</Value>
+    </Setting>
+    <Setting Name="BillingServiceApiAccountInvoiceItemChargeAmount" Type="System.Decimal" Scope="Application">
+      <Value Profile="(Default)">35.0</Value>
+    </Setting>
+    <Setting Name="BillingServiceProductId" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">2c91a0f8557bc1f401557f2ceb5e1d31</Value>
+    </Setting>
+    <Setting Name="BillingServiceApiAccounPaymentMethodsCount" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">2</Value>
+    </Setting>
+    <Setting Name="BillingServiceApiAccounPaymentMethodsCreditCardType" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Visa</Value>
+    </Setting>
+    <Setting Name="BillingServiceApiAccounPaymentMethodsBankAccountType" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Checking</Value>
+    </Setting>
+    <Setting Name="BillingServiceApiPaymentCollectionsAccountId" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">2c91a0fa6ea67ac8016ea965669c4689</Value>
+    </Setting>
+    <Setting Name="BillingServiceApiAccountDefaultPaymentMethodId" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">2c91a0fa6e87ff4c016e942844da2276</Value>
+    </Setting>
+    <Setting Name="BillingServiceApiAccountBillingCycleDay" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">18</Value>
+    </Setting>
+    <Setting Name="BillingServiceApiAccountCharityIdUS" Type="System.Guid" Scope="Application">
+      <Value Profile="(Default)">9037bc8a-b526-400e-a9b9-02b67c7db5f9</Value>
+    </Setting>
+    <Setting Name="BillingServiceApiAccountNonReferencedCreditMethodTypeIdUS" Type="System.Guid" Scope="Application">
+      <Value Profile="(Default)">c6f9d451-d092-4df4-8b01-2ed552d7fcf2</Value>
+    </Setting>
+    <Setting Name="BillingAccountUpdateTestAccountId" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">2c91a0b96e1d3cc1016e223b5af45afd</Value>
+    </Setting>
+    <Setting Name="BillingAccountUpdateTestBillCycleDay" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">8</Value>
+    </Setting>
+    <Setting Name="BillingAccountUpdateTestCharityId" Type="System.Guid" Scope="Application">
+      <Value Profile="(Default)">9037bc8a-b526-400e-a9b9-02b67c7db5f9</Value>
+    </Setting>
+    <Setting Name="BillingAccountUpdateTestDefaultPaymentMethodId" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">2c91a0b96e1d3cc1016e223a85c15af8</Value>
+    </Setting>
+    <Setting Name="BillingAccountUpdateTestNonReferencedCreditMethodTypeId" Type="System.Guid" Scope="Application">
+      <Value Profile="(Default)">c6f9d451-d092-4df4-8b01-2ed552d7fcf2</Value>
+    </Setting>
+    <Setting Name="BillingAccountsPOSTAccountIdTestUsa" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">642246</Value>
+    </Setting>
+    <Setting Name="BillingAccountsPOSTAccountIdTestCanada" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">642229</Value>
+    </Setting>
+    <Setting Name="BillingPaymentMethodsEFFSPOSTPartyId" Type="System.Guid" Scope="Application">
+      <Value Profile="(Default)">702fcf60-0cee-4d1e-b8f5-f50ac99539c9</Value>
+    </Setting>
+    <Setting Name="BillingApiPaymentMethodsEFTSPartyId" Type="System.Guid" Scope="Application">
+      <Value Profile="(Default)">1f121ec7-4af2-4565-a0bf-6eae9696b2fc</Value>
+    </Setting>
+    <Setting Name="BillingApiPaymentMethodsEFTSAccountId" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">2c93db826f41ff21016f684cf1c7326b</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

@@ -1,0 +1,24 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="FullEnrollmentTests" GeneratedClassName="EnrollTestSettings">
+  <Profiles />
+  <Settings>
+    <Setting Name="AccountUpdateTestOwnerId" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">640261</Value>
+    </Setting>
+    <Setting Name="AccountUpdateTestAccountId" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">2c91a0b96e1d3cc1016e223b5af45afd</Value>
+    </Setting>
+    <Setting Name="AccountRefundTestAmount" Type="System.Decimal" Scope="Application">
+      <Value Profile="(Default)">91.84</Value>
+    </Setting>
+    <Setting Name="AccountRefundTestOwnerId" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">641273</Value>
+    </Setting>
+    <Setting Name="AccountUpdateTestAccountNameOnAccount" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Miao Laoshi</Value>
+    </Setting>
+    <Setting Name="AccountUpdateTestPaymentRequestId" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">4599</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

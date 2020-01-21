@@ -1,0 +1,48 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="BillingTestCommon" GeneratedClassName="BillingTestCommonSettings">
+  <Profiles />
+  <Settings>
+    <Setting Name="PromoCodeUsaCanada" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">PVC413</Value>
+    </Setting>
+    <Setting Name="PromoCodeAustralia" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">AUCAT1902</Value>
+    </Setting>
+    <Setting Name="TrxToHtmlTool" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">TrxerConsole.exe</Value>
+    </Setting>
+    <Setting Name="TestResultTempFilePrefix" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">BillingTest</Value>
+    </Setting>
+    <Setting Name="VSIDEFolder" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Microsoft Visual Studio\2017\Enterprise</Value>
+    </Setting>
+    <Setting Name="TestResultFolder" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">BillingTestResults</Value>
+    </Setting>
+    <Setting Name="TestResultMachine" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">billingtest</Value>
+    </Setting>
+    <Setting Name="TestEnv" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Test</Value>
+    </Setting>
+    <Setting Name="BankAccountNumberCA" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">0025700257</Value>
+    </Setting>
+    <Setting Name="BankRoutineNumberUS" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">125000024</Value>
+    </Setting>
+    <Setting Name="SaveUsaBankAccountBillingAccountId" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">633000</Value>
+    </Setting>
+    <Setting Name="EmailTestResults" Type="System.Boolean" Scope="Application">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="EmailTestResultsFrom" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">test.emial.auto@trupanion.com</Value>
+    </Setting>
+    <Setting Name="EmailTestResultsTo" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">yunfeng.ma@trupanion.com</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
